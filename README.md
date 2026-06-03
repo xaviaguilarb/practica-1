@@ -4,8 +4,8 @@
 Controlar un LED des del Monitor Sèrie mitjançant ordres "ON" i "OFF".
 
 ## Autors
-- Martí Serrano
-- Ruben Ordoñez
+- Xavier Aguilar
+- Dario Brea
 
 ## Materials
 - ESP32
